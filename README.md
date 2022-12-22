@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jessica (@jmkeralis).
-- 👀 I’m interested in data linkage and epidemiologic research.
+- 👀 I’m interested in HIV epidemiologic research.
 - 🌱 I’m currently learning GitHub ^^
-- 💞️ I’m looking to collaborate on research projects at NCHS.
+- 💞️ I’m looking to collaborate on research projects at CDC.
 - 📫 How to reach me: ion6@cdc.gov
 
 <!---
